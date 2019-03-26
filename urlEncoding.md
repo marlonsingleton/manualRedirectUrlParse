@@ -32,3 +32,8 @@ Open your browser's Developer Tools and review the body class="error" for output
 
 So, the redirect_uri here is <b><a>https://login.microsoftonline.com/te/marlonb2c.onmicrosoft.com/oauth2/authresp</a></b> 
 (My redirect_uri is no longer valid, just in case you were wondering.)
+
+
+
+
+<a href="https://www.w3schools.com/tags/ref_urlencode.asp">HTML URL Encoding Reference</a>
