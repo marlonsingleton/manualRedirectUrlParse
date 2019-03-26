@@ -2,9 +2,12 @@
 
 I got this error.
 
+![](https://raw.githubusercontent.com/marlonsingleton/manualRedirectUrlParse/master/bad_redirect_uri.jpg)
+
+
 Since I was using a local app via Visual Studio, I thought other might run into this as well.
 
-Here's The Fix!
+### Here's The Fix! ###
 
 Open your browser's Developer Tools and review the body class="error" for output similar to below 
 
