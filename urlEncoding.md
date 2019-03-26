@@ -30,4 +30,5 @@ Open your browser's Developer Tools and review the body class="error" for output
 "%2f"  is URL Encoding for "/"
 
 
-So, the redirect_url here is <b><a>https://login.microsoftonline.com/te/marlonb2c.onmicrosoft.com/oauth2/authresp</a></b>
+So, the redirect_uri here is <b><a>https://login.microsoftonline.com/te/marlonb2c.onmicrosoft.com/oauth2/authresp</a></b> 
+(My redirect_uri is no longer valid, just in case you were wondering.)
