@@ -1,1 +1,3 @@
-# Azure AD B2C fix action for wiring up a local application to Social Identity Provider
+# Azure AD B2C 
+
+(How to find proper "redirect_uri" Social Identity Provider)
