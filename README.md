@@ -21,7 +21,7 @@ Open your browser's Developer Tools and review the body class="error" for output
 <br>
 <br>
 
-### Let's Parse the Highlighted Portion ###
+### Parse the Highlighted Portion ###
 
 "%3A" is URL Encoding for ":"</br>
 "%2f"  is URL Encoding for "/"
