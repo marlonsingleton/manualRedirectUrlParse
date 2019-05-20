@@ -1,12 +1,10 @@
 # Azure AD B2C (Example)
 
-If you get this error. You can parse the uri manually.
+Are you getting this error when setting up Azure AD B2C? If so, try parsing the uri redirect manually.
 
 ![](https://raw.githubusercontent.com/marlonsingleton/manualRedirectUrlParse/master/bad_redirect_uri.jpg)
 <br>
 <br>
-
-### Here's The Fix! ###
 
 Open your browser's Developer Tools and review the body class="error" for output similar to below 
 
